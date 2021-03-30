@@ -1,6 +1,6 @@
 # Sources-and-Setup
 
-[Folder](./) / [README](./README.md)
+[This folder](./) / [Readme file](./README.md)
 
 ## Software (Sources)
 

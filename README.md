@@ -1,5 +1,7 @@
 # Coding-Somewhere
 
+[Root](/README.md) / - / [This folder](./) / [Readme file](./README.md)
+
 ## Some Developer Somewhere
 
 - [This repo](https://github.com/Some-Developer-Somewhere/Coding-Somewhere)
@@ -9,5 +11,3 @@
 ## Sources-and-Setup
 
 - [Sources-and-Setup.md](/Sources-and-Setup/README.md)
-- [Sources-and-Setup](/Sources-and-Setup/README)
-- [Sources-and-Setup folder](/Sources-and-Setup)
