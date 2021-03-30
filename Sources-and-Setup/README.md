@@ -1,8 +1,7 @@
 # Sources-and-Setup
 
-- [this folder sns](/Sources-and-Setup)
-- [this folder /](/)
-- [this folder ./](./)
+- [this folder](./)
+- [this readme](./README.md)
 
 ## Software (Sources)
 
