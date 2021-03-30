@@ -1,6 +1,7 @@
 # Coding-Somewhere (root)
 
-[Root](https://github.com/Some-Developer-Somewhere/Coding-Somewhere) ;
+Root ;
+up ;
 [Folder](https://github.com/Some-Developer-Somewhere/Coding-Somewhere) ;
 [Readme](./README.md)
 
