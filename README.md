@@ -1,9 +1,10 @@
-# Coding-Somewhere (root)
-
 Root ;
 up ;
-[Folder](https://github.com/Some-Developer-Somewhere/Coding-Somewhere) ;
-[Readme](./README.md)
+
+[Folder-view](https://github.com/Some-Developer-Somewhere/Coding-Somewhere) ;
+[Readme-view](./README.md)
+
+# Coding-Somewhere (root)
 
 ## Some Developer Somewhere (me)
 
