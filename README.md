@@ -1,6 +1,5 @@
 Root ;
 up ;
-
 [Folder-view](https://github.com/Some-Developer-Somewhere/Coding-Somewhere) ;
 [Readme-view](./README.md)
 
