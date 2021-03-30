@@ -6,14 +6,19 @@
 
 ## Software (Sources)
 
-### Git
+### Git Tools
 
+- [Git Bash](...)
 - [GitHub Desktop](https://desktop.github.com/)
 - [Sourcetree](...)
 
 ## Setup
 
 <!-- install [vsCode, py, etc]?? -->
+
+<!-- ### Git -->
+<!-- ### Python -->
+<!-- ### VS Code -->
 
 ## Custimizations (Windows)
 
