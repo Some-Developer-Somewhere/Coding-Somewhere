@@ -1,5 +1,9 @@
 # Sources-and-Setup
 
+- [this folder sns](/Sources-and-Setup)
+- [this folder /](/)
+- [this folder ./](./)
+
 ## Software (Sources)
 
 ### Git
