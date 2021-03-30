@@ -1,6 +1,8 @@
 # Coding-Somewhere
 
-[Root](https://github.com/Some-Developer-Somewhere/Coding-Somewhere) ; [This folder](./) ; [this readme file](./README.md)
+[Root](https://github.com/Some-Developer-Somewhere/Coding-Somewhere) ;
+[This folder](./) ;
+[this readme file](./README.md)
 
 ## Some Developer Somewhere
 

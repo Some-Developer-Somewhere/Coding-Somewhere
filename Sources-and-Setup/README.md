@@ -1,6 +1,8 @@
 # Sources-and-Setup
 
-[Root](https://github.com/Some-Developer-Somewhere/Coding-Somewhere) ; [This folder](./) ; [this readme file](./README.md)
+[Root](https://github.com/Some-Developer-Somewhere/Coding-Somewhere) ;
+[This folder](https://github.com/Some-Developer-Somewhere/Coding-Somewhere) ;
+[this readme file](./README.md)
 
 ## Software (Sources)
 
