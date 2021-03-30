@@ -13,9 +13,4 @@ up ;
 
 ## [Language-Overviews](/Language-Overviews/README.md)
 
-<!-- - [Language-Overviews.md](/Language-Overviews/README.md) -->
-
 ## [Sources-and-Setup](/Sources-and-Setup/README.md)
-
-<!-- - [Sources-and-Setup.md](/Sources-and-Setup/README.md) -->
-

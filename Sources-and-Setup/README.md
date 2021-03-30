@@ -7,11 +7,23 @@
 
 ## Software (Sources)
 
+### Code editors
+
+- [VS Code](...)
+- [VS Code - Insider](...)
+- [Visual Studio](...)
+
 ### Git Tools
 
 - [Git Bash](...)
 - [GitHub Desktop](https://desktop.github.com/)
 - [Sourcetree](...)
+
+### Other Tools
+
+- [Notepad ++](...)
+- [Total Commander](...)
+- [Syncron](...)
 
 ## Setup
 
