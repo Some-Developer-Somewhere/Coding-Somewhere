@@ -11,6 +11,12 @@ up ;
 - [Github](https://github.com/Some-Developer-Somewhere)
 - [Youtube](https://www.youtube.com/channel/UCsLuF1Ul_jUHy0oaThm3iQQ)
 
+## [Cross-Language-Projects](/Cross-Language-Projects/README.md)
+
 ## [Languages-Syntax-Notes](/Languages-Syntax-Notes/README.md)
+
+## [Projects-by-Language](/Projects-by-Language/README.md)
+
+## [Resources](/Resources/README.md)
 
 ## [Sources-and-Setup](/Sources-and-Setup/README.md)
