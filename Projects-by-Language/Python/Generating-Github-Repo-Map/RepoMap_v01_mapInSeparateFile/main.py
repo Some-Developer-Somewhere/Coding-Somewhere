@@ -62,23 +62,21 @@ def generateReadmeTree(walk, rootDir):
     
     for root, dirs, files in walk:
         # TODO: If no readme, add as text (not link)
+        # TODO: Add brackets if called to edit a readme.md and the fip matches.
         if "README.md" in files:
             splitRoot = root.split('/')
             indents = len(splitRoot)-1
             name = splitRoot[-1]
             if indents == 0:
-                name = "root"
+                name = "Root"
             relativeFip = f"{root}/README.md"
             textLine = f"{indents*'    '}- [{name}]({relativeFip})"
             outLines.append(textLine)
 
-    print(outLines)
     return "\n".join(outLines)
-    # [print(e) for e in walk]
-    # pass
 
 def writeToRoot(readmeText, outFileName, rootDir):
-    print(readmeText)
+    # print(readmeText)
     fip = f"{rootDir}/{outFileName}"
     with open(fip, 'w') as o:
         o.write(readmeText)
@@ -91,8 +89,6 @@ def main():
     prunedWalk = convertWalkToUnixPaths(prunedWalk)
     readmeText = generateReadmeTree(prunedWalk, rootDir)
     writeToRoot(readmeText, "map.md", rootDir)
-    # [print(e) for e in prunedWalk]
-
 
 if __name__ == '__main__':
     main()

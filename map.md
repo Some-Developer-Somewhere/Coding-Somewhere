@@ -1,4 +1,4 @@
-- [root](/README.md)
+- [Root](/README.md)
     - [Languages-Syntax-Notes](/Languages-Syntax-Notes/README.md)
         - [JS](/Languages-Syntax-Notes/JS/README.md)
             - [Syntax-Overview](/Languages-Syntax-Notes/JS/Syntax-Overview/README.md)
