@@ -63,6 +63,8 @@ def generateReadmeTree(walk, rootDir):
     for root, dirs, files in walk:
         # TODO: If no readme, add as text (not link)
         # TODO: Add brackets if called to edit a readme.md and the fip matches.
+        # TODO: Add only parents and children (not siblings) when called for a
+        # readme file.
         if "README.md" in files:
             splitRoot = root.split('/')
             indents = len(splitRoot)-1
