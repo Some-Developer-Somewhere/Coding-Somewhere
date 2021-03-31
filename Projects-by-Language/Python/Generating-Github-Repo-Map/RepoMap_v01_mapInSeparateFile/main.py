@@ -72,8 +72,12 @@ def generateReadmeTree(walk, rootDir):
             relativeFip = f"{root}/README.md"
             textLine = f"{indents*'    '}- [{name}]({relativeFip})"
             outLines.append(textLine)
+        elif "README.md".lower() in [e.lower() for e in files]:
+            print(f'Error: Casing error for readme file in "{root}": {files}')
 
-    return "\n".join(outLines)
+    outLines.append("")
+    readmeText = "\n".join(outLines)
+    return readmeText
 
 def writeToRoot(readmeText, outFileName, rootDir):
     # print(readmeText)
