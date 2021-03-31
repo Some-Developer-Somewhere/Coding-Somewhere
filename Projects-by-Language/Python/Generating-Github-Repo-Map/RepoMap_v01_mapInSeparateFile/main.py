@@ -71,6 +71,8 @@ def generateReadmeTree(walk, rootDir):
                 name = "Root"
             relativeFip = f"{root}/README.md"
             textLine = f"{indents*'    '}- [{name}]({relativeFip})"
+            if ".sds_inDevelopment" in files:
+                textLine += " (in development)"
             outLines.append(textLine)
         elif "README.md".lower() in [e.lower() for e in files]:
             print(f'Error: Casing error for readme file in "{root}": {files}')
