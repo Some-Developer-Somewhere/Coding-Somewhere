@@ -10,7 +10,6 @@
     - (In progress) [Projects-Across-Languages](/Projects-Across-Languages/README.md)
     - (In progress) [Projects-by-Language](/Projects-by-Language/README.md)
         - [Python](/Projects-by-Language/Python/README.md)
-            - [Generating-Github-Repo-Map](/Projects-by-Language/Python/Generating-Github-Repo-Map/README.md)
     - (In progress) [Resources](/Resources/README.md)
         - (In progress) [Code-Along](/Resources/Code-Along/README.md)
         - (In progress) [Coding-Adventures](/Resources/Coding-Adventures/README.md)
